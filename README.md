@@ -14,5 +14,6 @@ Once this is done, go to the **main.py** file and insert your access credentials
 - BOT_TOKEN
 
 Then open your terminal inside the folder 'Telegram-SnippetBot' and do
+<pre>> pip install pyrogram </pre>
 <pre>> python main.py </pre>
 ### After these steps the bot should work properly 🎉
