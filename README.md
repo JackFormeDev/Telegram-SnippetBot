@@ -12,7 +12,7 @@ Once this is done, go to the **main.py** file and insert your access credentials
 - API_ID
 - API_HASH
 - BOT_TOKEN
-
+<pre>To get your credentials go to this site: https://my.telegram.org/auth?to=apps</pre>
 Then open your terminal inside the folder 'Telegram-SnippetBot' and do
 <pre>> pip install pyrogram </pre>
 <pre>> python main.py </pre>
